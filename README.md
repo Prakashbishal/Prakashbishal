@@ -1,3 +1,8 @@
+<!-- 🎯 Banner -->
+<p align="center">
+  <img src="banner.png" alt="Bishal Pandey Banner" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Bishal Pandey</h1>
 <h3 align="center">AI • Machine Learning • Flutter • Computer Vision</h3>
 
@@ -14,11 +19,11 @@
 📱 Crafting **AI-powered Flutter apps**  
 🧠 Exploring **Deep Learning, TFLite, CV, and Transformers**  
 📚 Author of an open-source **AI/ML Math Book** in LaTeX  
-💡 Passionate about building tech that creates real-world impact
+💡 Passionate about building tech that creates real-world impact  
 
 ---
 
-### 🔧 Tech Stack
+### 🛠️ Tech Stack
 
 **Languages & Core:**  
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
@@ -74,7 +79,7 @@
 ### 📫 Connect With Me
 
 <p align="center">
-  <a href="www.linkedin.com/in/bishal-pandey-78080230b" target="_blank">
+  <a href="https://www.linkedin.com/in/bishal-pandey-78080230b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:prakashbishal1973@gmail.com">
