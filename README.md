@@ -17,8 +17,7 @@
 🎓 MSc Artificial Intelligence @ **University of Southampton**  
 🏅 Gold Medalist in B.Tech (IT) from **NEHU**  
 📱 Crafting **AI-powered Flutter apps**  
-🧠 Exploring **Deep Learning, TFLite, CV, and Transformers**  
-📚 Author of an open-source **AI/ML Math Book** in LaTeX  
+🧠 Exploring **Deep Learning, TFLite, CV, and Transformers**   
 💡 Passionate about building tech that creates real-world impact  
 
 ---
